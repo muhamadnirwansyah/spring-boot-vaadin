@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/db_rnd
+    username: rnd
+    password: rnd
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true

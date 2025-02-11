@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: jasper-vaadin
+  profiles:
+    active: local
+server:
+  port: 8881
